@@ -1,0 +1,30 @@
+
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 30px;
+}
+
+.logo img {
+  height: 85px; /* Adjust based on your logo's size */
+}
+
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 20px; /* Adjust the space between navigation links */
+}
+
+.nav-links li a {
+  text-decoration: none;
+  color: #45974c; /* Adjust the color as needed */
+}
+
+
+
+
+
+
